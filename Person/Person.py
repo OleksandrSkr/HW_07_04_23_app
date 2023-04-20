@@ -6,7 +6,7 @@ class Person :
     def Registration(self):
         name = input("Enter your name : ")
         age = input("Enter your age : ")
-#        print(self._name, self._age)
+        print(self._name, self._age)
         print("oops")
 
     def get_name(self):
