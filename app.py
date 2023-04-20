@@ -1,6 +1,6 @@
 #import Person.Person
 #import Person.Admin
-from Person.Person import Person
+#from Person.Person import Person
 
 from Person.Admin import Admin
 
