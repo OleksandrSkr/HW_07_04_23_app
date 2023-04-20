@@ -11,6 +11,7 @@ class Admin (Person):
         name = input("Enter your name : ")
         age = input("Enter your age : ")
         experience =input ("Enter your experience : ")
-        print(name, age, experience)
+        print ("yes")
+#        print(name, age, experience)
 
-    Registration()
+    
