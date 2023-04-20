@@ -1,6 +1,4 @@
 from Person.Person import Person
-Person.Registration(Person)
-
 
 class Admin (Person):
     def __init__(self, name, age,  experience):
@@ -10,8 +8,8 @@ class Admin (Person):
     def Registration(self):
         name = input("Enter your name : ")
         age = input("Enter your age : ")
-        experience =input ("Enter your experience : ")
-        print ("yes")
-#        print(name, age, experience)
+        experience = input ("Enter your experience : ")
+        print ("You coped with the task")
+
 
     
